@@ -1,0 +1,105 @@
+Saved flight data loaded.
+
+=== COLOSSUS AIRLINES ===
+a) Outbound Flight
+b) Inbound Flight
+c) Quit
+Choice: 
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: There are 23 empty seats.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Empty seats: 1 2 3 4 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Enter seat number (1-24), or 0 to cancel: Enter first name: Enter last name: Seat 6 assigned successfully.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Enter seat number (1-24), or 0 to cancel: That seat is already assigned.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Enter seat number to delete, or 0 to cancel: That seat is already empty.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Enter seat number (1-24), or 0 to cancel: 
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: Invalid choice.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: 
+=== COLOSSUS AIRLINES ===
+a) Outbound Flight
+b) Inbound Flight
+c) Quit
+Choice: 
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: There are 24 empty seats.
+
+--- Flight Menu ---
+a) Show number of empty seats
+b) Show list of empty seats
+c) Show passenger list
+d) Assign a customer
+e) Delete a seat assignment
+f) Return to Main Menu
+Choice: 
+=== COLOSSUS AIRLINES ===
+a) Outbound Flight
+b) Inbound Flight
+c) Quit
+Choice: Flight data saved.
+Goodbye!
